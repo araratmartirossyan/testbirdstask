@@ -1,0 +1,11 @@
+.usercard {
+  display: flex;
+  margin: 10px;
+}
+
+.usercard__left-icon {
+  width: 40px;
+  height: 40px;
+  background: red;
+  border-radius: 50%;
+}

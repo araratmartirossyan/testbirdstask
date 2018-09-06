@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./droid/DroidSans.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: 'Droid Sans Bold';
+  font-style: bold;
+  font-weight: 600;
+  src: url('./droid/DroidSans-Bold.ttf') format('truetype')
+}
